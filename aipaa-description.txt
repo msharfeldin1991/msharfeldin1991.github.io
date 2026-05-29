@@ -1,0 +1,111 @@
+SHORT DESCRIPTION (80 chars)
+AI Tasks, Prayer Times, Smart Shopping & News — Offline AI Chat
+
+
+FULL DESCRIPTION (4,000 chars)
+
+
+
+🤖 AIPAA — Your All-in-One AI Productivity Companion
+
+Aipaa combines a powerful on-device AI assistant, smart task manager, 
+prayer time reminders, news feed, and shopping tracker into one 
+beautifully designed app — fully offline-capable, bilingual 
+(English & Arabic), and built for modern Muslim life.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🧠 ON-DEVICE AI CHAT — NO SUBSCRIPTION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Run local AI models (Gemma, Qwen, LLaMA) directly on your phone — no 
+  internet required and no monthly fee
+• Your conversations stay private — nothing leaves your device
+• Attach images, use voice input, and switch between multiple chat sessions
+• Download AI models once and chat forever, even on airplane mode
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+✅ SMART TASK MANAGER & REMINDERS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Create tasks with due dates, priorities, subtasks (plans), and categories
+• Set notification reminders or real alarms with custom ringtones
+• Attach photos, documents, or locations to any task
+• Repeating tasks: daily, weekly, monthly, yearly
+• Call reminders — link a contact so you never forget to call back
+• Drag-and-drop task reordering with swipe to complete or archive
+• Home screen widget to see your tasks at a glance
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🕌 PRAYER TIMES & AZAAN REMINDERS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Accurate prayer times for your GPS location — Fajr, Dhuhr, Asr, 
+  Maghrib, Isha
+• Multiple calculation methods: Dubai, Egyptian, Karachi, MWL, and more
+• Azaan audio notification with the authentic Egyptian call to prayer
+• Pre-prayer advance reminders (5, 10, 15, 30 minutes before)
+• Hijri calendar overlay on the full calendar view
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📰 PERSONALIZED NEWS FEED
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Multi-source news aggregated and ranked by relevance and freshness
+• Filter by topics: technology, business, health, sports, and more
+• Background refresh keeps your feed current — even before you open the app
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🛒 SMART SHOPPER — PRICE TRACKER
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Build your personal price book to track what you paid and where
+• Scan product barcodes to quickly add items
+• Compare prices across stores and dates
+• Multi-currency support with live exchange rates
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🧰 BUILT-IN FLOATING TOOLS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• 🔢 Calculator — quick arithmetic always within reach
+• 🌤️ Weather — current conditions + forecast via Open-Meteo
+• 💱 Currency Converter — live rates, offline fallback
+• 📝 Quick Notes — auto-saving scratch pad
+• ⏰ Alarm — set and customize with any ringtone
+• 📷 Scanner — barcode, QR code, and object detection powered by YOLO AI
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🌍 BILINGUAL — ENGLISH & ARABIC (RTL)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Full right-to-left (RTL) layout support for Arabic
+• Switch languages instantly from Settings
+• All screens, dialogs, and notifications fully translated
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🔒 PRIVACY FIRST
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• AI chat runs 100% on-device — your data never leaves your phone
+• No account required — use with a local device password or guest mode
+• Tasks, notes, and price book stored locally
+• Optional Firebase sync with Google Sign-In
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📊 PRODUCTIVITY INSIGHTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Track your task completion streak and lifetime count
+• Category breakdown charts to see where your time goes
+• Motivational daily quotes and engagement notifications to keep you going
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Aipaa is the productivity app built for people who want AI power, 
+Islamic lifestyle support, and smart daily tools — all in one place, 
+without subscriptions or privacy trade-offs.
+
+Download free and take control of your day.
+
+****************************************
+KEYWORD TAG SUGGESTIONS (for Play Console keyword field)
+
+
+
+AI assistant, task manager, to-do list, prayer times, Islamic app, 
+Muslim productivity, offline AI, local AI, LLaMA, Arabic app, 
+RTL support, Azaan reminder, Salah times, smart shopping, 
+price tracker, barcode scanner, news feed, calendar reminder, 
+alarm, AI chat, private AI, on-device AI, Quran reminder, 
+productivity, planner, organizer
