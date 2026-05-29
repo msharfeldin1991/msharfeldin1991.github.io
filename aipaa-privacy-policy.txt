@@ -1,0 +1,129 @@
+Privacy Policy — Aipaa
+
+Effective date: 2026-01-20 | Last updated: 2026-05-22
+
+
+1. About This Policy
+
+This Privacy Policy applies to the Aipaa mobile application ("Application") developed by Mahmoud Sharfeldin ("Service Provider"). Aipaa is an ad-supported productivity and AI assistant app provided "as is." By using the Application you agree to the practices described here.
+
+
+2. Information We Collect
+
+2.1 Information You Provide Directly
+
+- Account credentials — your email address when you create an account or sign in via Firebase Authentication. This is the only personal data currently collected and stored by the Service Provider.
+- Google account identity — if you choose to sign in with Google, your Google account name and email are used for authentication only and are not stored independently by the Service Provider.
+- Tasks and calendar data — task titles, descriptions, due dates, categories, notes, and subtasks. This data is stored locally on your device only and is not transmitted to any server.
+- Contact information — phone numbers you save for call-reminder tasks. Stored locally on your device only.
+- Price book entries — product names, prices, and store information you enter in the Smart Shopper feature. Stored locally on your device only.
+- App settings and preferences — language, theme, notification preferences, and other configuration choices. Stored locally on your device only.
+- AI chat messages (when available) — conversation history with the AI assistant. Processed and stored locally on your device only when using on-device AI models.
+- Prayer time preferences (when available) — calculation method and notification settings you configure. Stored locally on your device only.
+
+2.2 Information Collected Automatically
+
+- Email address and device identifiers — collected by Firebase for authentication and account management.
+- App usage data — basic session and usage data collected by Firebase Analytics to help improve the Application.
+- Operating system and device type — used for compatibility purposes.
+
+2.3 Permissions the App May Request
+
+Location (when available)
+Used for prayer time calculation, weather widget, and optional task location tagging. Used only when you activate these features.
+
+Camera (when available)
+Used for the barcode and pill scanner feature. Active only while the scanner is open.
+
+Notifications
+Used for task reminders, call reminders, and motivational notifications.
+
+Microphone (when available)
+Used for optional voice input for the AI chat assistant. Active only when you tap the microphone button.
+
+Storage (read/write)
+Used for storing downloaded AI model files and image attachments on your device.
+
+The Application does not track your location in the background.
+
+
+3. How We Use Your Information
+
+- To authenticate your account and keep it secure.
+- To provide core app functionality including task management, calendar, Smart Shopper, and news feed.
+- To provide additional features such as AI chat, prayer times, weather, and scanner (when available).
+- To schedule and deliver notifications you have requested.
+- To improve the Application through anonymized analytics.
+- To serve advertisements through Google AdMob.
+- To contact you with important service notices when necessary.
+
+
+4. Data Storage and Processing
+
+- On-device storage — the vast majority of your data (tasks, contacts, chat history, settings, price book, AI models) is stored locally on your device and does not leave it.
+- Firebase (Google) — your email address and authentication data are processed and stored by Firebase. See Google's Privacy Policy at https://policies.google.com/privacy.
+- Google AdMob — the Application displays advertisements through Google AdMob. AdMob may collect device identifiers and usage data to serve personalized ads. See Google's Privacy Policy at https://policies.google.com/privacy.
+- News and weather data (when available) — the Application fetches publicly available RSS feeds and weather data on your behalf. No personal data is sent to these services beyond your IP address.
+
+
+5. Third-Party Access
+
+The Service Provider does not sell your personal data. Information may be shared with third parties only in the following circumstances:
+
+- Service providers acting on our behalf (Firebase, AdMob) who do not use your information for their own independent purposes.
+- Legal compliance — when required by law, subpoena, court order, or government request.
+- Safety and fraud prevention — when disclosure is necessary in good faith to protect the rights, safety, or property of users, the Service Provider, or the public.
+- Aggregated, anonymized data — non-identifiable usage statistics may be used to improve the Application.
+
+
+6. Advertising
+
+The Application uses Google AdMob to display advertisements. AdMob may use device advertising identifiers and usage data to deliver interest-based ads. You can opt out of personalized advertising through your device settings:
+
+Android: Settings > Google > Ads > Opt out of Ads Personalization.
+
+
+7. AI Features and Local Models (when available)
+
+The on-device AI assistant runs AI language models downloaded directly to your device. Conversations processed by local models do not leave your device and are not accessible by the Service Provider.
+
+When this feature becomes fully available, the Service Provider may collect anonymized usage data related to local AI model activity — such as which models are used, frequency of use, and general performance metrics — to help improve the feature. This data would not include the content of your conversations. If and when such collection begins, this Privacy Policy will be updated accordingly and you will be notified within the Application.
+
+
+8. Children's Privacy
+
+The Application is not directed to children under the age of 13. The Service Provider does not knowingly collect personal information from children under 13. If you believe a child has provided personal information through the Application, please contact us at Mahmoud.A.sharfeldin@gmail.com and we will promptly delete it.
+
+Users must be at least 16 years of age to consent to the processing of their personal data in jurisdictions where this requirement applies. In applicable countries, a parent or legal guardian may provide consent on behalf of a minor.
+
+
+9. Data Retention
+
+Your email address and account data held by Firebase are retained for as long as your account is active. All other app data is stored locally on your device and remains under your control. To request deletion of your account data, contact Mahmoud.A.sharfeldin@gmail.com. Requests will be processed within a reasonable time.
+
+
+10. Your Rights and Choices
+
+- Opt out of data collection — uninstall the Application to stop all local and automated data collection.
+- Notifications — disable any notification category in the Application's Settings or your device's notification settings.
+- Location access (when available) — revoke location permission at any time through your device's app settings.
+- Camera access (when available) — revoke camera permission at any time through your device's app settings.
+- Advertising personalization — managed through your device's advertising settings as described in Section 6.
+- Data deletion — contact us at Mahmoud.A.sharfeldin@gmail.com to request deletion of your account data.
+
+
+11. Security
+
+The Service Provider implements technical safeguards to protect your information, including encrypted local storage for sensitive data (passwords, contact phone numbers) and HTTPS for all network communication. No method of transmission or storage is 100% secure; the Service Provider cannot guarantee absolute security.
+
+
+12. Changes to This Policy
+
+This Privacy Policy may be updated from time to time. When material changes are made, the "Last updated" date at the top of this page will be revised and you may be notified within the Application. Continued use of the Application after changes are posted constitutes your acceptance of the revised policy.
+
+
+13. Contact
+
+For privacy questions, concerns, or data deletion requests, contact the Service Provider:
+
+Email: Mahmoud.A.sharfeldin@gmail.com
